@@ -18,7 +18,7 @@ General algorithm for solving this problem:
 The following graph was used to test the program part:
 
 <p align="center">
-  <img src="img/main_graph.png" alt="Main Graph" width="800">
+  <img src="img/main_graph.png" alt="Main Graph" width="600">
 </p>
 
 Critical path: `0 → 2 → 5 → 8 → 11 → 14 → 16 → 21 → 22 → 26 → 28 → 30`
